@@ -1,0 +1,26 @@
+<section class="hero">
+  <h1>Conquiste Olhares com a Pele dos Seus Sonhos!</h1>
+  <p>O Sérum Radiance transforma sua pele em apenas 7 dias</p>
+  <a href="#comprar" class="btn">Quero Meu Sérum Agora</a>
+  <!-- Exemplo de imagem de rosto feminino (baixe em Pexels ou Pixabay) -->
+  <img src="link-da-sua-imagem-hero.jpg" alt="Mulher com pele radiante">
+</section>
+
+<section>
+  <h2>A Solução</h2>
+  <p>O Sérum Radiance é formulado com ingredientes premium que rejuvenescem sua pele...</p>
+  <!-- Exemplo de imagem de produto de skincare -->
+  <img src="link-da-imagem-produto.jpg" alt="Frasco do Sérum Radiance">
+</section>
+
+<section>
+  <h2>O que nossas clientes dizem</h2>
+  <div class="testimonial">
+    <img src="link-foto-cliente-1.jpg" alt="Cliente satisfeita">
+    <p>“Minha pele nunca esteve tão bonita!” – Ana, 34 anos</p>
+  </div>
+  <div class="testimonial">
+    <img src="link-foto-cliente-2.jpg" alt="Cliente satisfeita">
+    <p>“Senti a firmeza da pele e o brilho!” – Camila, 29 anos</p>
+  </div>
+</section>
